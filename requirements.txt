@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+pandas==2.0.1
+Requests==2.30.0
+scraperapi_sdk==0.2.2
+streamlit==1.22.0
